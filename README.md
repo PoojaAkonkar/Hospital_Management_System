@@ -6,7 +6,7 @@ The Hospital Management System (HMS) is a comprehensive web-based application de
 🛠️ Tech Stack
 Backend: Java, Spring Boot, Maven
 
-Frontend/UI: HTML, CSS, JavaScript (or Thymeleaf if used with Spring Boot)
+Frontend/UI: HTML, CSS, JavaScript, Web MVC
 
 Database: MySQL
 
